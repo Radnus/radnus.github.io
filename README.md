@@ -1,5 +1,3 @@
-radnus.github.io
-================
 # jsterm
 jsterm is a terminal simulator that uses a JSON filesystem. To see it in use,
 check out [radnus.github.io](http://radnus.github.io/).
